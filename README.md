@@ -1,5 +1,8 @@
 # Ai-with-Chucky-Colab-Notebooks
 
+### Qwen Image Edit 2.1 Up to 10 Reference Images
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Qwen%20Image%202.1%20EDIT.ipynb)
+
 ### Qwen Image 2.1 T2I with LORa Support
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Qwen_Image_2_1.ipynb)
 
